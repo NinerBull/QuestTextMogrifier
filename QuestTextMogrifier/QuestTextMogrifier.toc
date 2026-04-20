@@ -1,4 +1,4 @@
-## Interface: 120001, 50503, 38000, 30405, 20505, 11508
+## Interface: 120005, 50503, 38001, 20505, 11508
 ## Title: Quest Text Mogrifier
 ## Version: @project-version@
 ## Notes: Searches for and replaces words of your choosing in Quest Text and NPC Dialogue.
